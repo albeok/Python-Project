@@ -8,7 +8,7 @@ Everyday this program pick some informations from [coinmarketcap](https://coinma
 * The amount of money required to purchase one unit of all cryptocurrencies whose last 24-hour volume exceeds $ 76,000,000 
 * The percentage gain or loss you would have made if you had bought one unit of each of the top 20 cryptocurrencies the day before (assuming that the ranking has not changed)
 ### Example of a JSON file:
-I apologize, but it's written in italian.
+I apologize, but it's written in italian, as well as the code itself.
 ``` json
 {
     "La criptovaluta con il volume maggiore (in $) delle ultime 24 ore": [
